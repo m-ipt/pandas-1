@@ -23,7 +23,7 @@ Utilizamos a biblioteca **Pandas** da linguagem **Python** para realizar algumas
 - Como criar uma nova coluna com o `.apply(lambda)`.
 
 ## Tecnologias utilizadas neste projeto:
-<img height="20" src="https://img.shields.io/badge/Google_Colaboratory-darkorange"> <img height="20" src="https://img.shields.io/badge/Python-yellow"> <img height="20" src="https://img.shields.io/badge/Pandas-turquoise"> <img height="20" src="https://img.shields.io/badge/Trello-blue">
+<img height="20" src="https://img.shields.io/badge/Jupyter_Notebook-orange"> <img height="20" src="https://img.shields.io/badge/Google_Colaboratory-darkorange"> <img height="20" src="https://img.shields.io/badge/Python-yellow"> <img height="20" src="https://img.shields.io/badge/Pandas-turquoise"> <img height="20" src="https://img.shields.io/badge/Trello-blue">
 
 ## Como reproduzir este repositório?
 Você pode fazer um `git clone` do repositório para a sua máquina e abrir os notebooks no [Colab](https://colab.research.google.com/).
