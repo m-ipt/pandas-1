@@ -28,6 +28,10 @@ Utilizamos a biblioteca **Pandas** da linguagem **Python** para realizar algumas
 ## Como reproduzir este repositório?
 Você pode fazer um `git clone` do repositório para a sua máquina e abrir os notebooks no [Colab](https://colab.research.google.com/).
 
+Além disso, os notebooks podem ser vistos de forma online. Basta clicar nos links abaixo:
+- [Notebook do curso](https://colab.research.google.com/drive/1uPG9kiiFulLxg3he7E2cO0aqpW489g0u?usp=sharing)
+- [Notebook de desafios](https://colab.research.google.com/drive/1apcNbugl2hllbrPlk1uQYowT6I1i04zx?usp=sharing)
+
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
